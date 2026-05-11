@@ -1,0 +1,1382 @@
+{
+  "Version": 1,
+  "Hash": "EFUT4YPg7+dzXkc/RxYwaE1Ibufw4MJx50wuQ0bBmiI=",
+  "Source": "StatusUpdateApp",
+  "BasePath": "_content/StatusUpdateApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "StatusUpdateApp\\wwwroot",
+      "Source": "StatusUpdateApp",
+      "ContentRoot": "C:\\ASPChatApplication\\StatusUpdateApp\\wwwroot\\",
+      "BasePath": "_content/StatusUpdateApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\ASPChatApplication\\StatusUpdateApp\\obj\\Debug\\net9.0\\compressed\\0lrknn8np6-i0hosxohfb.gz",
+      "SourceId": "StatusUpdateApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\ASPChatApplication\\StatusUpdateApp\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/StatusUpdateApp",
+      "RelativePath": "index#[.{fingerprint=i0hosxohfb}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\ASPChatApplication\\StatusUpdateApp\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "7f896xv18v",
+      "Integrity": "46z045UbtCVPCWeUwhHUO1nSf6dFE4TnSWXyA6n5hcw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\ASPChatApplication\\StatusUpdateApp\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\ASPChatApplication\\StatusUpdateApp\\obj\\Debug\\net9.0\\compressed\\2jww8kjxng-v33k1sk1pk.gz",
+      "SourceId": "StatusUpdateApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\ASPChatApplication\\StatusUpdateApp\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/StatusUpdateApp",
+      "RelativePath": "chat#[.{fingerprint=v33k1sk1pk}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\ASPChatApplication\\StatusUpdateApp\\wwwroot\\chat.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "owgw3fsswj",
+      "Integrity": "aKObUGe1TvaX1ubmRg7pDQskifigPAUD5Wyqi4lM54Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\ASPChatApplication\\StatusUpdateApp\\wwwroot\\chat.js"
+    },
+    {
+      "Identity": "C:\\ASPChatApplication\\StatusUpdateApp\\obj\\Debug\\net9.0\\compressed\\hi7il6vzof-wqykif8buh.gz",
+      "SourceId": "StatusUpdateApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\ASPChatApplication\\StatusUpdateApp\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/StatusUpdateApp",
+      "RelativePath": "signup#[.{fingerprint=wqykif8buh}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\ASPChatApplication\\StatusUpdateApp\\wwwroot\\signup.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "rx6dxx1end",
+      "Integrity": "oSb4ed24Jyj+L0Ew7Udg01tjjN+GzhJxLUaE16ea0kU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\ASPChatApplication\\StatusUpdateApp\\wwwroot\\signup.html"
+    },
+    {
+      "Identity": "C:\\ASPChatApplication\\StatusUpdateApp\\obj\\Debug\\net9.0\\compressed\\kwoipjm46a-b87zu862l9.gz",
+      "SourceId": "StatusUpdateApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\ASPChatApplication\\StatusUpdateApp\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/StatusUpdateApp",
+      "RelativePath": "login#[.{fingerprint=b87zu862l9}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\ASPChatApplication\\StatusUpdateApp\\wwwroot\\login.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "kxi8zcynzd",
+      "Integrity": "KFuawuwYoKSXeZ2rW5SqGcpIJBBBuSpCq9sFwFUbySk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\ASPChatApplication\\StatusUpdateApp\\wwwroot\\login.html"
+    },
+    {
+      "Identity": "C:\\ASPChatApplication\\StatusUpdateApp\\wwwroot\\chat.js",
+      "SourceId": "StatusUpdateApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\ASPChatApplication\\StatusUpdateApp\\wwwroot\\",
+      "BasePath": "_content/StatusUpdateApp",
+      "RelativePath": "chat#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v33k1sk1pk",
+      "Integrity": "RaKZENjDT7fEJq2T1XMZ24GxfMA5pLbZGmzZQj4mtaw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\chat.js"
+    },
+    {
+      "Identity": "C:\\ASPChatApplication\\StatusUpdateApp\\wwwroot\\index.html",
+      "SourceId": "StatusUpdateApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\ASPChatApplication\\StatusUpdateApp\\wwwroot\\",
+      "BasePath": "_content/StatusUpdateApp",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "i0hosxohfb",
+      "Integrity": "3hPrY+JKBWmrPQ9d4oDBmolq/FyVOeZjuJRbr6eXerY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\ASPChatApplication\\StatusUpdateApp\\wwwroot\\login.html",
+      "SourceId": "StatusUpdateApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\ASPChatApplication\\StatusUpdateApp\\wwwroot\\",
+      "BasePath": "_content/StatusUpdateApp",
+      "RelativePath": "login#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "b87zu862l9",
+      "Integrity": "pRKx7i0XDH/rpaaDlP5KK9HGF6zcCdSCTVRls9XmbR0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\login.html"
+    },
+    {
+      "Identity": "C:\\ASPChatApplication\\StatusUpdateApp\\wwwroot\\signup.html",
+      "SourceId": "StatusUpdateApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\ASPChatApplication\\StatusUpdateApp\\wwwroot\\",
+      "BasePath": "_content/StatusUpdateApp",
+      "RelativePath": "signup#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wqykif8buh",
+      "Integrity": "6Bpjcmv/7QVep8t5gcZkrAwFic/LnHWlRunDZqawSs8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\signup.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "chat.js",
+      "AssetFile": "C:\\ASPChatApplication\\StatusUpdateApp\\obj\\Debug\\net9.0\\compressed\\2jww8kjxng-v33k1sk1pk.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000302388872"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3306"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aKObUGe1TvaX1ubmRg7pDQskifigPAUD5Wyqi4lM54Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 04 May 2026 07:23:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"RaKZENjDT7fEJq2T1XMZ24GxfMA5pLbZGmzZQj4mtaw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RaKZENjDT7fEJq2T1XMZ24GxfMA5pLbZGmzZQj4mtaw="
+        }
+      ]
+    },
+    {
+      "Route": "chat.js",
+      "AssetFile": "C:\\ASPChatApplication\\StatusUpdateApp\\wwwroot\\chat.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14005"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RaKZENjDT7fEJq2T1XMZ24GxfMA5pLbZGmzZQj4mtaw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 04 May 2026 07:23:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RaKZENjDT7fEJq2T1XMZ24GxfMA5pLbZGmzZQj4mtaw="
+        }
+      ]
+    },
+    {
+      "Route": "chat.js.gz",
+      "AssetFile": "C:\\ASPChatApplication\\StatusUpdateApp\\obj\\Debug\\net9.0\\compressed\\2jww8kjxng-v33k1sk1pk.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3306"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aKObUGe1TvaX1ubmRg7pDQskifigPAUD5Wyqi4lM54Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 04 May 2026 07:23:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aKObUGe1TvaX1ubmRg7pDQskifigPAUD5Wyqi4lM54Y="
+        }
+      ]
+    },
+    {
+      "Route": "chat.v33k1sk1pk.js",
+      "AssetFile": "C:\\ASPChatApplication\\StatusUpdateApp\\obj\\Debug\\net9.0\\compressed\\2jww8kjxng-v33k1sk1pk.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000302388872"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3306"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aKObUGe1TvaX1ubmRg7pDQskifigPAUD5Wyqi4lM54Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 04 May 2026 07:23:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"RaKZENjDT7fEJq2T1XMZ24GxfMA5pLbZGmzZQj4mtaw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v33k1sk1pk"
+        },
+        {
+          "Name": "label",
+          "Value": "chat.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RaKZENjDT7fEJq2T1XMZ24GxfMA5pLbZGmzZQj4mtaw="
+        }
+      ]
+    },
+    {
+      "Route": "chat.v33k1sk1pk.js",
+      "AssetFile": "C:\\ASPChatApplication\\StatusUpdateApp\\wwwroot\\chat.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14005"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RaKZENjDT7fEJq2T1XMZ24GxfMA5pLbZGmzZQj4mtaw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 04 May 2026 07:23:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v33k1sk1pk"
+        },
+        {
+          "Name": "label",
+          "Value": "chat.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RaKZENjDT7fEJq2T1XMZ24GxfMA5pLbZGmzZQj4mtaw="
+        }
+      ]
+    },
+    {
+      "Route": "chat.v33k1sk1pk.js.gz",
+      "AssetFile": "C:\\ASPChatApplication\\StatusUpdateApp\\obj\\Debug\\net9.0\\compressed\\2jww8kjxng-v33k1sk1pk.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3306"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aKObUGe1TvaX1ubmRg7pDQskifigPAUD5Wyqi4lM54Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 04 May 2026 07:23:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v33k1sk1pk"
+        },
+        {
+          "Name": "label",
+          "Value": "chat.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aKObUGe1TvaX1ubmRg7pDQskifigPAUD5Wyqi4lM54Y="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\ASPChatApplication\\StatusUpdateApp\\obj\\Debug\\net9.0\\compressed\\0lrknn8np6-i0hosxohfb.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000219106047"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4563"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"46z045UbtCVPCWeUwhHUO1nSf6dFE4TnSWXyA6n5hcw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 May 2026 06:49:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"3hPrY+JKBWmrPQ9d4oDBmolq/FyVOeZjuJRbr6eXerY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3hPrY+JKBWmrPQ9d4oDBmolq/FyVOeZjuJRbr6eXerY="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\ASPChatApplication\\StatusUpdateApp\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20168"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3hPrY+JKBWmrPQ9d4oDBmolq/FyVOeZjuJRbr6eXerY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 May 2026 06:49:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3hPrY+JKBWmrPQ9d4oDBmolq/FyVOeZjuJRbr6eXerY="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "C:\\ASPChatApplication\\StatusUpdateApp\\obj\\Debug\\net9.0\\compressed\\0lrknn8np6-i0hosxohfb.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4563"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"46z045UbtCVPCWeUwhHUO1nSf6dFE4TnSWXyA6n5hcw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 May 2026 06:49:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-46z045UbtCVPCWeUwhHUO1nSf6dFE4TnSWXyA6n5hcw="
+        }
+      ]
+    },
+    {
+      "Route": "index.i0hosxohfb.html",
+      "AssetFile": "C:\\ASPChatApplication\\StatusUpdateApp\\obj\\Debug\\net9.0\\compressed\\0lrknn8np6-i0hosxohfb.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000219106047"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4563"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"46z045UbtCVPCWeUwhHUO1nSf6dFE4TnSWXyA6n5hcw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 May 2026 06:49:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"3hPrY+JKBWmrPQ9d4oDBmolq/FyVOeZjuJRbr6eXerY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i0hosxohfb"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3hPrY+JKBWmrPQ9d4oDBmolq/FyVOeZjuJRbr6eXerY="
+        }
+      ]
+    },
+    {
+      "Route": "index.i0hosxohfb.html",
+      "AssetFile": "C:\\ASPChatApplication\\StatusUpdateApp\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20168"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3hPrY+JKBWmrPQ9d4oDBmolq/FyVOeZjuJRbr6eXerY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 May 2026 06:49:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i0hosxohfb"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3hPrY+JKBWmrPQ9d4oDBmolq/FyVOeZjuJRbr6eXerY="
+        }
+      ]
+    },
+    {
+      "Route": "index.i0hosxohfb.html.gz",
+      "AssetFile": "C:\\ASPChatApplication\\StatusUpdateApp\\obj\\Debug\\net9.0\\compressed\\0lrknn8np6-i0hosxohfb.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4563"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"46z045UbtCVPCWeUwhHUO1nSf6dFE4TnSWXyA6n5hcw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 May 2026 06:49:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i0hosxohfb"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-46z045UbtCVPCWeUwhHUO1nSf6dFE4TnSWXyA6n5hcw="
+        }
+      ]
+    },
+    {
+      "Route": "login.b87zu862l9.html",
+      "AssetFile": "C:\\ASPChatApplication\\StatusUpdateApp\\obj\\Debug\\net9.0\\compressed\\kwoipjm46a-b87zu862l9.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000442086649"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2261"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KFuawuwYoKSXeZ2rW5SqGcpIJBBBuSpCq9sFwFUbySk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 May 2026 06:37:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"pRKx7i0XDH/rpaaDlP5KK9HGF6zcCdSCTVRls9XmbR0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "b87zu862l9"
+        },
+        {
+          "Name": "label",
+          "Value": "login.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pRKx7i0XDH/rpaaDlP5KK9HGF6zcCdSCTVRls9XmbR0="
+        }
+      ]
+    },
+    {
+      "Route": "login.b87zu862l9.html",
+      "AssetFile": "C:\\ASPChatApplication\\StatusUpdateApp\\wwwroot\\login.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7000"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pRKx7i0XDH/rpaaDlP5KK9HGF6zcCdSCTVRls9XmbR0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 May 2026 06:37:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "b87zu862l9"
+        },
+        {
+          "Name": "label",
+          "Value": "login.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pRKx7i0XDH/rpaaDlP5KK9HGF6zcCdSCTVRls9XmbR0="
+        }
+      ]
+    },
+    {
+      "Route": "login.b87zu862l9.html.gz",
+      "AssetFile": "C:\\ASPChatApplication\\StatusUpdateApp\\obj\\Debug\\net9.0\\compressed\\kwoipjm46a-b87zu862l9.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2261"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KFuawuwYoKSXeZ2rW5SqGcpIJBBBuSpCq9sFwFUbySk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 May 2026 06:37:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "b87zu862l9"
+        },
+        {
+          "Name": "label",
+          "Value": "login.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KFuawuwYoKSXeZ2rW5SqGcpIJBBBuSpCq9sFwFUbySk="
+        }
+      ]
+    },
+    {
+      "Route": "login.html",
+      "AssetFile": "C:\\ASPChatApplication\\StatusUpdateApp\\obj\\Debug\\net9.0\\compressed\\kwoipjm46a-b87zu862l9.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000442086649"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2261"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KFuawuwYoKSXeZ2rW5SqGcpIJBBBuSpCq9sFwFUbySk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 May 2026 06:37:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"pRKx7i0XDH/rpaaDlP5KK9HGF6zcCdSCTVRls9XmbR0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pRKx7i0XDH/rpaaDlP5KK9HGF6zcCdSCTVRls9XmbR0="
+        }
+      ]
+    },
+    {
+      "Route": "login.html",
+      "AssetFile": "C:\\ASPChatApplication\\StatusUpdateApp\\wwwroot\\login.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7000"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pRKx7i0XDH/rpaaDlP5KK9HGF6zcCdSCTVRls9XmbR0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 May 2026 06:37:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pRKx7i0XDH/rpaaDlP5KK9HGF6zcCdSCTVRls9XmbR0="
+        }
+      ]
+    },
+    {
+      "Route": "login.html.gz",
+      "AssetFile": "C:\\ASPChatApplication\\StatusUpdateApp\\obj\\Debug\\net9.0\\compressed\\kwoipjm46a-b87zu862l9.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2261"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KFuawuwYoKSXeZ2rW5SqGcpIJBBBuSpCq9sFwFUbySk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 May 2026 06:37:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KFuawuwYoKSXeZ2rW5SqGcpIJBBBuSpCq9sFwFUbySk="
+        }
+      ]
+    },
+    {
+      "Route": "signup.html",
+      "AssetFile": "C:\\ASPChatApplication\\StatusUpdateApp\\obj\\Debug\\net9.0\\compressed\\hi7il6vzof-wqykif8buh.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000428082192"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2335"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oSb4ed24Jyj+L0Ew7Udg01tjjN+GzhJxLUaE16ea0kU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 May 2026 06:37:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"6Bpjcmv/7QVep8t5gcZkrAwFic/LnHWlRunDZqawSs8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6Bpjcmv/7QVep8t5gcZkrAwFic/LnHWlRunDZqawSs8="
+        }
+      ]
+    },
+    {
+      "Route": "signup.html",
+      "AssetFile": "C:\\ASPChatApplication\\StatusUpdateApp\\wwwroot\\signup.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7118"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6Bpjcmv/7QVep8t5gcZkrAwFic/LnHWlRunDZqawSs8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 May 2026 06:37:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6Bpjcmv/7QVep8t5gcZkrAwFic/LnHWlRunDZqawSs8="
+        }
+      ]
+    },
+    {
+      "Route": "signup.html.gz",
+      "AssetFile": "C:\\ASPChatApplication\\StatusUpdateApp\\obj\\Debug\\net9.0\\compressed\\hi7il6vzof-wqykif8buh.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2335"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oSb4ed24Jyj+L0Ew7Udg01tjjN+GzhJxLUaE16ea0kU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 May 2026 06:37:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oSb4ed24Jyj+L0Ew7Udg01tjjN+GzhJxLUaE16ea0kU="
+        }
+      ]
+    },
+    {
+      "Route": "signup.wqykif8buh.html",
+      "AssetFile": "C:\\ASPChatApplication\\StatusUpdateApp\\obj\\Debug\\net9.0\\compressed\\hi7il6vzof-wqykif8buh.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000428082192"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2335"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oSb4ed24Jyj+L0Ew7Udg01tjjN+GzhJxLUaE16ea0kU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 May 2026 06:37:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"6Bpjcmv/7QVep8t5gcZkrAwFic/LnHWlRunDZqawSs8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wqykif8buh"
+        },
+        {
+          "Name": "label",
+          "Value": "signup.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6Bpjcmv/7QVep8t5gcZkrAwFic/LnHWlRunDZqawSs8="
+        }
+      ]
+    },
+    {
+      "Route": "signup.wqykif8buh.html",
+      "AssetFile": "C:\\ASPChatApplication\\StatusUpdateApp\\wwwroot\\signup.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7118"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6Bpjcmv/7QVep8t5gcZkrAwFic/LnHWlRunDZqawSs8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 May 2026 06:37:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wqykif8buh"
+        },
+        {
+          "Name": "label",
+          "Value": "signup.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6Bpjcmv/7QVep8t5gcZkrAwFic/LnHWlRunDZqawSs8="
+        }
+      ]
+    },
+    {
+      "Route": "signup.wqykif8buh.html.gz",
+      "AssetFile": "C:\\ASPChatApplication\\StatusUpdateApp\\obj\\Debug\\net9.0\\compressed\\hi7il6vzof-wqykif8buh.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2335"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oSb4ed24Jyj+L0Ew7Udg01tjjN+GzhJxLUaE16ea0kU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 May 2026 06:37:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wqykif8buh"
+        },
+        {
+          "Name": "label",
+          "Value": "signup.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oSb4ed24Jyj+L0Ew7Udg01tjjN+GzhJxLUaE16ea0kU="
+        }
+      ]
+    }
+  ]
+}
